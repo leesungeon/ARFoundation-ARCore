@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://arproject-b7549-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+  <string name="gcm_defaultSenderId" translatable="false">947327957574</string>
+  <string name="google_storage_bucket" translatable="false">arproject-b7549.appspot.com</string>
+  <string name="project_id" translatable="false">arproject-b7549</string>
+  <string name="google_api_key" translatable="false">AIzaSyAP0eV-Igbm3N6NEd_Qudnf4hbodyC2nCM</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAP0eV-Igbm3N6NEd_Qudnf4hbodyC2nCM</string>
+  <string name="google_app_id" translatable="false">1:947327957574:android:aaa535ee6a56265a82e847</string>
+  <string name="default_android_client_id" translatable="false">947327957574-h4s85bktn7a1kpgfu1dq0nu8dt3e1vrm.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">947327957574-s4b73vtqcstp3hv0tme2500mg3kk8cmk.apps.googleusercontent.com</string>
+</resources>

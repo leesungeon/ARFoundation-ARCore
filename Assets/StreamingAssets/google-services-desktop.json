@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "947327957574",
+    "firebase_url": "https://arproject-b7549-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "arproject-b7549",
+    "storage_bucket": "arproject-b7549.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947327957574:android:aaa535ee6a56265a82e847",
+        "android_client_info": {
+          "package_name": "com.eonion.FaceAR"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947327957574-h4s85bktn7a1kpgfu1dq0nu8dt3e1vrm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eonion.FaceAR",
+            "certificate_hash": "a868e6be374ba805ca0705037467d9951b682be7"
+          }
+        },
+        {
+          "client_id": "947327957574-s4b73vtqcstp3hv0tme2500mg3kk8cmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP0eV-Igbm3N6NEd_Qudnf4hbodyC2nCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947327957574-s4b73vtqcstp3hv0tme2500mg3kk8cmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
